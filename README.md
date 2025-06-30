@@ -43,8 +43,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanishq-patil-707348320/) *(add your link)*
-- 🐦 [Twitter](https://x.com/Tanishqstwt) *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanishq-patil-707348320/) 
+- 🐦 [Twitter](https://x.com/Tanishqstwt)
 - ✉️ Email: `tanishqp101204@gmail.com`
 
 ---
